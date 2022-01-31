@@ -9,7 +9,7 @@ st.sidebar.info(
         "to be solvable by entry level   programmers.\n"
         "\n"
         "The data was downloaded from [google-research](https://github.com/google-research/google-research/tree/master/mbpp) github repo.\n"
-        "\n Check the code behind this app [here]](https://github.com/gafstar/google1000).\n\n"
+        "\n Check the code behind this app [here](https://github.com/gafstar/google1000).\n\n"
 )
 class Paginate:
     def __init__(self):
